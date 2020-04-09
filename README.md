@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
 	<h1 style="text-align: center;color: Blue; border-radius: 10px;border: double;">Pirple<sub>.Com</sub>  Frontend Fundamentals Course</h1>
 	<h3>Course Solution By Fida Hussain Dahri (BS-IT QUEST Nawabshah)</h3>
 	<h4></h4><hr/>
